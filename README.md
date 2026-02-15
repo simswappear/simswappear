@@ -16,5 +16,5 @@
 ![𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![𝐏𝐲𝐭𝐡𝐨𝐧](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 # 💎 Presence
-[![Discord Presence](https://api.lanyard.rest/v1/users/1427981036377079932)](https://discord.com/users/1427981036377079932)
+[![Discord Presence](https://api.lanyard.rest/v1/users/1427981036377079932?bg=031e4e&borderRadius=10px&theme=dark&hideTimestamp=true)](https://discord.com/users/1427981036377079932)
 <img src="https://raw.githubusercontent.com/KrashMello/KrashMello/output/snake.svg" alt="Snake animation" />
