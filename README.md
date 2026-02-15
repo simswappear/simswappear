@@ -8,7 +8,7 @@
 
 ![banner](https://i.ytimg.com/vi/2VOHNPuOD4w/maxresdefault.jpg)
 
-👋 Hello World<br><br>    📝 Pasiones: Ciberdelincuencia & Edatear<br><br>    📝 Catalogado como : Genio, Multimillonario, Playboy, Filántropo, Ciberdelincuente, Hacker & Edater  <br><br> 📝 Hobbies: Vulnerar Sistemas Federales - Edatear - Sexcalls <br><br> 📝 Experimentado en: Ciberextorsion, Vulneracion De Sistemas Gubernamentales, Sexcalls & Gemir  <br><br> 📝 Creaciones: Exploits, Searchers De Usernames 4,3C 3L 3N, Web Scrappers & Raid Bot - Store Bot <br><br>
+👋 Hello World<br><br>    📝 Pasiones: Ciberdelincuencia & Edatear<br><br>    📝 Catalogado como : Genio, Multimillonario, Playboy, Filántropo, Ciberdelincuente, Hacker & Edater  <br><br> 📝 Hobbies: Vulnerar Sistemas Federales - Edatear - Sexcalls <br><br> 📝 Experimentado en: Pajearme, Ciberextorsion, Vulneracion De Sistemas Gubernamentales, Sexcalls & Gemir  <br><br> 📝 Creaciones: Exploits, Searchers De Usernames 4,3C 3L 3N, Web Scrappers & Raid Bot - Store Bot <br><br>
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1427981036377079932) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1337joaco) [![guns.lol](https://img.shields.io/badge/guns.lol-572364?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAwFBMVEX///8AAAD9/f2qqqr+/v4uLi6UlJSt...&labelColor=572364)](https://guns.lol/79k)
